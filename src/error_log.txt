@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "d:\PyMTS\PyMTS\trial_vs9_04.py", line 27, in main
+    trial = Trial()  # Instantiating the class
+            ^^^^^
+NameError: name 'Trial' is not defined
